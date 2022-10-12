@@ -7,12 +7,12 @@
 <a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/pulls"><img src="https://img.shields.io/github/issues-pr/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/issues"><img src="https://img.shields.io/github/issues/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Issues Badge"/></a>
 
-  ![Mboalab](https://user-images.githubusercontent.com/63330165/161022905-50be0130-c1f8-4beb-95ea-137e6c780d5e.jpg)
+![Mboalab](https://user-images.githubusercontent.com/63330165/161022905-50be0130-c1f8-4beb-95ea-137e6c780d5e.jpg)
 
 <a href="https://twitter.com/LabMboa" ><img src="https://img.shields.io/twitter/follow/LabMboa.svg?style=social" /> </a>
 <a href="https://website-mboalab.vercel.app/"><img src="https://img.shields.io/discord/.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a>
 
-  [<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](http://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/company/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/explore/tags/mboalab?igshid=YmMyMTA2M2Y=)  &nbsp;  [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:thomasmboa@gmail.com)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="3.5%"/>](http://www.mboalab.africa/) &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/LabMboa) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/company/mboalab/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/mboalab/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/explore/tags/mboalab?igshid=YmMyMTA2M2Y=) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>](mailto:thomasmboa@gmail.com)
 
   </div>
 
@@ -47,7 +47,7 @@ To this end, the main missions of Mboalab are as follows:
 
 ## COV19CommunityKITs
 
-We are primarily working on a project to support the mass production,  packaging in kits and distribution of open-source preventive equipments in remote areas. To know more about project, please [visit](https://app.jogl.io/project/217/COV19CommunityKITs).
+We are primarily working on a project to support the mass production, packaging in kits and distribution of open-source preventive equipments in remote areas. To know more about project, please [visit](https://app.jogl.io/project/217/COV19CommunityKITs).
 
 ### Skill Required
 
@@ -64,7 +64,7 @@ We are primarily working on a project to support the mass production,  packaging
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants' self-development over skill acquisition.
 Both applicants with or without previous experience in open-source contributions and complete beginners are welcome to participate and contribute.
 
->**_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
+> **_Our main objective is to provide applicants with notions on open-source contributions and spirit, as well as with basics and advanced skills needed to complete the project;_**
 
 ## How to contribute to the project?
 
