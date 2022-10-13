@@ -66,3 +66,36 @@ using `[resource](link)`
 ## Ignoring Markdown formatting
 
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
+
+# Using GitHub
+
+GitHub enables collaboration and provides a platform for developers to host and save their work.
+
+## GitHub Pages
+Used to host our websites and blog content while providing a link that can be shared for other people to see our final product.
+
+## Common Requests
+### Pull Requests
+
+Enables one to contribute to other people's code.
+
+### Merge Conflicts
+
+Merging code some times can results to conflits these is where there is similarity on more than one programmers code with some differences, eg similar headers, class names and ids.
+
+It is solved by taking the most appropriate coe or asking the developers to make certain changes on their code.
+
+### Using Git
+
+Git is a version control that enables our local machine to connect to our remote machine ie github.
+
+### Git commands
+
+```
+git add
+git commit
+git push
+```
+This are the three most important git command.
+
+One can also use certain extensions on their code editors such as source control on the VS code.
