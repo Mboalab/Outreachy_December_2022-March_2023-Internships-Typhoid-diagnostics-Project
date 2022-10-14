@@ -36,4 +36,4 @@ Once you are comfortable with the basics, you can start contributing to open-sou
 
 
 ## Attributed Mentor:
-The attributed mentor to get in touch with for this task is **Stephanie Fadanka**
+The attributed mentor to get in touch with for this task is **Stephane Fadanka**
