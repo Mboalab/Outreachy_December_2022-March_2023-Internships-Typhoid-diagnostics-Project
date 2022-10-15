@@ -1,0 +1,121 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+   }
+   body {
+    font-family: 'Open Sans', sans-serif, helvetica, Arial;
+    font-weight: 400;
+    font-size: 14px;
+    color: black;
+    /* body background image */
+    background-image: linear-gradient(to bottom, rgba(128, 128, 128, 0.541), rgba(204, 0, 255, 0.637)), url(image.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+     
+   }
+   .container {
+    max-width: 800px;
+    width: 100%;
+    margin: 0 auto;
+   }
+   #contact {
+    background-color: rgba(238, 38, 71, 0.7);
+    padding: 20px;
+    margin: 50px 0;
+   }
+   #contact input, button {
+    font: 400 15px 'Open Sans', sans-serif, helvetica, Arial;
+   }
+   #contact h1 {
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+   }
+   #contact h3 {
+    margin: 5px 0px 15px;
+    text-align: center;
+   }
+   .row {
+    display: flex;
+    width: 100% !important;
+    padding: 20px 0px;
+   }
+   .row .column {
+    margin: 0px 20px;
+    width: 50%;
+   }
+   fieldset {
+    border: medium none !important;
+    margin:  0 0 10px;
+    min-width: 100%;
+    width: 100%;
+   }
+   #contact input {
+    width: 100%;
+    border: 1px solid rgb(150, 150, 150);
+    background-color: white;
+    padding: 10px;
+    margin: 5px 0;
+   }
+   input[type = "radio"] {
+    width: 10% !important;
+   }
+   #contact .row .radio {
+    border: 1px solid rgb(150, 150, 150);
+    background-color: white;
+    margin: 7px 0 10px;
+    padding: 5px;
+   }
+   #contact .row .idCard{
+    display: flex;
+    height: 45px !important;
+    margin: 5px 0;
+   }
+   #contact .row .idCard :first-child {
+    width: 80px;
+   }
+   #contact .row .idCard :last-child {
+    width: 40px;
+   }
+   #contact .row #phone {
+    max-width: 100% !important;
+    padding-right: 80px;
+   }
+   #contact input:hover {
+    transition: border-color 0.3s ease-in-out;
+    border: 1px solid rgb(68, 68, 68);
+   }
+   #contact button {
+    outline: none;
+    border: none;
+    background-color: blue;
+    color: white;
+    margin: 0 0 5px 40%;
+    padding: 10px;
+    font-size: 17px;
+    width: 150px;
+   }
+    
+   #contact button:hover {
+    background-color: rgba(0, 0, 255, 0.8);
+   }
+    
+   #contact input:focus {
+    outline: 0;
+    border: 1px solid red;
+   }
+    
+   /* mobile responsive mode */
+   @media screen and (max-width: 580px)  {
+    .row {
+     flex-direction: column;
+    }
+    .row .column {
+     width: 90% !important;
+    }
+    #contact .row #phone {
+    padding-right: 180px;
+   }
+   }
