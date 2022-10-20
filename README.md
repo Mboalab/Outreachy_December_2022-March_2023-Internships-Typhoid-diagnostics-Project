@@ -2,10 +2,10 @@
 
 <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
 <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=Mboalab&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/stargazers"><img src="https://img.shields.io/github/stars/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Stars Badge"/></a>
-<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/network/members"><img src="https://img.shields.io/github/forks/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Forks Badge"/></a>
-<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/pulls"><img src="https://img.shields.io/github/issues-pr/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/issues"><img src="https://img.shields.io/github/issues/Mboalab/Mboalab_Outreachy-May-Aug-2022" alt="Issues Badge"/></a>
+<a href="https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project/stargazers"><img src="https://img.shields.io/github/stars/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project" alt="Stars Badge"/></a>
+<a href="https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project/network/members"><img src="https://img.shields.io/github/forks/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project" alt="Forks Badge"/></a>
+<a href="https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/pulls"><img src="https://img.shields.io/github/issues-pr/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project/issues"><img src="https://img.shields.io/github/issues/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project" alt="Issues Badge"/></a>
   
   ![Mboalab](https://user-images.githubusercontent.com/63330165/161022905-50be0130-c1f8-4beb-95ea-137e6c780d5e.jpg)
   
@@ -16,7 +16,7 @@
   
   </div>
   
-# Mboalab
+# 🌱 🌱  Mboalab 🌱 🌱 
 
 Mboalab is an open and collaborative space located in the village of Mefou-Assi, Yaounde, Cameroon. The aim of Mboalab is to catalyse sustainable development and improve people's living conditions through open science. We bring together researchers, scholars, educationists, policy makers and the general public to discuss, conceive and implement projects responding to the health, economic and social needs of the community, such as the coronavirus pandemic. Our approach focuses on the integration of local knowledge by centering the local community especially women.
 
@@ -71,7 +71,7 @@ Check the Contributions Guidelines and the list of details via [Technical Docume
 Each project’s Starter Task is supervised by a specific mentor. Applicants desiring to contribute to a specific task should get in touch with the assigned mentor. 
 Information about the assigned mentor can be found in the task’s descriptions.
 
-Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors#readme).
+Information about Mboalab community Mentors can be found [Here](https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project/tree/main/Meet_the_Mentors/README.md).
 
-See [Meet the Mentors Folder.](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Meet_the_Mentors)
+See [Meet the Mentors Folder 📫 .](https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project/tree/main/Meet_the_Mentors)
 
