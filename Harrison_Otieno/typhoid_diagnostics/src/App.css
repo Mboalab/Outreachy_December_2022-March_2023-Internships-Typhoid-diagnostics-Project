@@ -1,0 +1,174 @@
+.App {
+  text-align: center;
+  font-family: 'Times New Roman'
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.Nav{
+  border-bottom: 2px solid #0271B9;
+}
+
+.logo{
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+
+ }
+
+.logo img{
+  height:110px;
+  margin: 10px;
+
+}
+
+
+.blogPage{
+  margin-right: 51%;
+  margin-top: 60px;
+
+}
+
+.butt{
+  padding: 5px;
+  border-radius: 8px;
+  background-color: #0271B9;
+  border-color: #fff;
+  margin-top: 10px;
+  margin-left: -80px;
+
+
+}
+
+.Test{
+margin: 50px;
+}
+
+.overlay{
+  width: 100%;
+  display: block;
+  position: absolute;
+  justify-content: center;
+  align-content: center;
+  background-color: #ffff;
+  height: 80vh;
+  text-align: center;
+
+
+}
+
+.layContainer, .form{
+  text-align: left;
+  position: fixed;
+  background-color: #fdfeff;
+  padding: 0px 250px;
+  margin: 50px;
+  justify-content: center;
+  align-content: center;
+}
+
+input[type=text], .content{
+  width: 700px;
+  margin: 5px 0 10px 0;
+  display: flex;
+  border-radius: 5px;
+  border-color: #0271B9;
+  background: #f1f1f1;
+  font-size: 16px;
+
+}
+
+input[type=text]:focus, .content:focus {
+  background-color: #ddd;
+  outline: none;
+  cursor: text;
+}
+
+.content{
+  outline: none;
+  resize: none;
+  border-color: #0271B9;
+  line-height: 1.4;
+  height: 150px;
+  transition: all 0.2s;
+
+}
+.content:hover{
+  cursor: pointer;
+  background-color: #dddddd;
+}
+
+.content::-webkit-scrollbar{
+  width: 0;
+}
+
+.butt1{
+  padding: 5px;
+  border-radius: 8px;
+  background-color: #0271B9;
+  border-color: #fff;
+
+
+}
+
+.closeTab{
+  float: right;
+  margin-top: -25px;
+}
+
+.closeTab:hover{
+  color: #4169E1;
+}
+
+.reaction{
+
+  justify-content: space-between;
+}
+
+.reaction p {
+  display: inline-block;
+  justify-content: space-between;
+}
+
+.blogInfo{
+  margin-left: 200px;
+  margin-right: 200px;
+  padding: 30px;
+  width: 60%;
+  justify-content: center;
+  align-content: center
+
+}
