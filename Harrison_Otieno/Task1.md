@@ -1,20 +1,77 @@
-# Typhoid in Africa
-
-Typhoid, one of the classic infectious diseases afflicting humanity, is still a relatively common illness in many lower-income and middle-income countries.
-
-## Description
-
-* The disease is associated with chronic fever that, if not treated, can lead to complications such as intestinal perforation or neurological problems.
-* The diagnosis of typhoid is complicated because clinical presentation can be non-specific and can resemble a number of other diseases, such as malaria, typhus, and various viral infections. The current typhoid diagnostic kits are relatively unreliable, and microbial culture from blood or other bodily secretions of the main bacterial aetiological agents Salmonella enterica serotype Typhi and S enterica serotype Paratyphi A remains the gold standard.
-* Microbial culture requires the availability of adequate laboratory facilities, including blood and microbial culture equipment, and appropriate bacteriological expertise. Unfortunately, these are not always present in LMIC settings and the incidence of typhoid in many regions, particularly Africa, remains relatively undefined. Nevertheless, more than 20 million cases of typhoid have been estimated globally, most of which are caused by S Typhi, with between 200 000 and 600 000 deaths.1 However, the estimates are compromised by limited epidemiological information and restricted geographical coverage, as well as the problems with diagnosis.
-
-* Interest in typhoid has increased in recent years, driven by a number of factors. Multidrug resistance has been increasingly reported as a characteristic of S Typhi isolated in the past decade and from different parts of the globe.
-
-
-## Discovery of Typhoid
-
-Although there is historical evidence that typhoid has been established in south and southeast Asia for decades, there have been increasing reports of typhoid in different African countries, potentially associated with multidrug resistance.
 
 
 
-`
+# Typhoid Diagnostics Blog content
+
+
+![Typhoid Blog](./Landing%20Page.jpeg)
+
+
+[Website Link](https://meek-donut-2aea1a.netlify.app/)
+
+[GitHub Link](https://github.com/Ogalo/Typhoid-Blog-new)
+
+
+![Typhoid Blog](./Add%20Blog.jpeg)
+
+
+# Typhoid Blog Content
+
+
+The blog content in the above blog site has been well researched and documented to provide more insight on typhoid, its causes, effects, mutability, associated factors, statistical facts and its general overview.
+
+[Doc Link](https://docs.google.com/document/d/1jtDEbCCytfEUvRDnhR1N7i16FVsynH0B69LOTomGoec/edit#)
+
+# Objective
+
+**The objective of this contribution was to research and learn more on what the project entails and gain more content that can be used to educate the public to help prevent the spread and help save lives.**
+
+
+# Know More About the blog web
+
+### Front-end
+
+- You you can check the codes [here](https://github.com/Ogalo/Typhoid-Blog-new).
+- Add a blog content and the content gets displayed on to the web app
+- Very easy to install and run incase one would like to clone the git repo and modify the content.
+- run `npm install` or `yarn install` to install all dependencies.
+
+
+### Backend API
+
+- It takes in the blog inputs store them into a json web server then fetch them and display it to the front end page of the web.
+
+- installation using `npm install` and run using `json-server --watch db.json`
+
+- [API Link](https://github.com/Ogalo/Mboa-Rest-API)
+
+
+
+# Contribution
+
+### Skill Required
+
+React
+
+Javascript
+
+Netlify (for free hosting of the web application)
+
+HTML and CSS (for styling)
+
+
+
+## Contact Information
+
+ email: ogaloharrison@gmail.com
+
+Name: Harrison Omondi Otieno
+
+Alias: Ogalo
+
+Phone no: +254799820376
+
+
+
+
+
