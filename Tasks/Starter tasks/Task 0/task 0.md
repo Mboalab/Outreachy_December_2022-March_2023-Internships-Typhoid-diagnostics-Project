@@ -7,7 +7,7 @@ Contributing to open source can be intimidating and confusing depending on the p
 Open source activities refer to work, project, or tasks made available to the public to view, use, modify, and distribute under a license. It’s usually developed and maintained collaboratively by a community of its users. 
 
 
-Although the main point of  open source projects is to create valuable and accessible open source resources and tools, individual contributors can get plenty of personal benefit from contributing to them. By helping in the design or maintainance of developped resource enable contributors to hone thier technical skills. Work experience in an open source project is often a proof of your skills and an asset when applying for a Job. 
+Although the main point of  open source projects is to create valuable and accessible open source resources and tools, individual contributors can get plenty of personal benefit from contributing to them. By helping in the design or maintainance of developped resources, this enables contributors to hone their technical skills. Work experience in an open source project is often a proof of your skills and an asset when applying for a Job. 
 
 By collaborating with others on open-source you use, you get to become part of a community where you can practice your soft skills like communication, giving and receiving feedback, emotional intelligence, etc. Communities also introduce participants to tons of people and potential network, providing an opening to worthwhile opportunities.
 
