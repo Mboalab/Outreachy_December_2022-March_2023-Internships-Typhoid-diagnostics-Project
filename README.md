@@ -56,7 +56,7 @@ We are primarily working on a project to support the mass production,  packaging
 - [Biochemistry](https://app.jogl.io/search/projects?refinementList[skills][0]=Biochemistry)
 - [Project management](https://app.jogl.io/search/projects?refinementList[skills][0]=Project%20management%20skill)
 
-## Our Moto:
+## Our Motto:
 
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants' self-development over skill acquisition. 
 Both applicants with or without previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
