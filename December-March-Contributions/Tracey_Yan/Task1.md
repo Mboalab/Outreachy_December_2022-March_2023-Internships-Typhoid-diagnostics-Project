@@ -1,6 +1,6 @@
 # Task 1: Create content for the project's online platform
 
-- ** Attributed Mentor: Stephane Fadanka**
+- Attributed Mentor: Stephane Fadanka**
 
 My contribution is to create a Google Docs including all information about Typhoid fevel.
 
