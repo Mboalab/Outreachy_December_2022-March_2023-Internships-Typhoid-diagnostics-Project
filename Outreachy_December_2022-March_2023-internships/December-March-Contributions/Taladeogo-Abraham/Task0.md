@@ -1,4 +1,4 @@
-## **Task 0**
+## **Task 0 - Introduction to Community**
 
 Hello,
 
