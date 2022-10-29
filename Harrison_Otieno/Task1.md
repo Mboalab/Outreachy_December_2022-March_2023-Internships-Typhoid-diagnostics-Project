@@ -49,6 +49,24 @@ The blog content in the above blog site has been well researched and documented 
 
 # Contribution
 
+## Steps of the development
+
+* Used react to build the front-end.
+* Run `npm install` to download and load the relevant dependancies.
+* Style the front-end page using css.
+* Added functionalities using javascript, that is mapping and sending data to and from a json server.
+* Debugged the code.
+* hosted the front-end web application using netlify (A free web hosting platform for developers.)
+
+### Backend Json web API
+
+* Used javascript and json server to build the backend web api
+* Built a `db.json` file to hold the data collected from the front-end and use the same data to be displayed to the from end app.
+* Linked the url from the json server to the front end application  for testing I used the  local ports to help test if the web runs successfully.
+* Hosted the backend web api using `heroku` .
+* Change the local url to the heroku link.
+* Tested the application before deployment
+
 ### Skill Required
 
 React
