@@ -26,11 +26,11 @@ Mboalab is an open and collaborative space located in the village of Mefou-Assi,
 
 To this end, the main missions of Mboalab are as follows: 
 
-- provide community and lifelong education for the population, as well as formal education for the younger generations. 
-- serve as a platform for exchanges on issues related to local context; mediate between local communities and academia. 
-- propose solutions that meet the needs of communities, using local knowledge and open digital technologies.
-- raise public awareness of environmental issues.
-- facilitate access to basic health care.
+- Provide community and lifelong education for the population, as well as formal education for the younger generations. 
+- Serve as a platform for exchanges on issues related to local context; mediate between local communities and academia. 
+- Propose solutions that meet the needs of communities, using local knowledge and open digital technologies.
+- Raise public awareness of environmental issues.
+- Facilitate access to basic health care.
 
 # Know More About Us
 
@@ -56,7 +56,7 @@ We are primarily working on a project to support the mass production,  packaging
 - [Biochemistry](https://app.jogl.io/search/projects?refinementList[skills][0]=Biochemistry)
 - [Project management](https://app.jogl.io/search/projects?refinementList[skills][0]=Project%20management%20skill)
 
-## Our Moto:
+## Our Motto:
 
 In line with Outreachy’s guideline, the focus of our project is to prioritise the learning process and applicants' self-development over skill acquisition. 
 Both applicants with or without previous experience in open-source contributions and complete beginners are welcome to participate and contribute. 
