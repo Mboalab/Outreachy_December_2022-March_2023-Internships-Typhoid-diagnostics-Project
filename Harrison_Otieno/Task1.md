@@ -39,11 +39,12 @@ The blog content in the above blog site has been well researched and documented 
 
 ### Backend API
 
-- It takes in the blog inputs store them into a json web server then fetch them and display it to the front end page of the web.
+- It has been built using ruby and rails and hosted in heroku.
+- It uses postgresql database to store the blog content.
 
-- installation using `npm install` and run using `json-server --watch db.json`
+- installation using `bundle install` and run using `rails server`
 
-- [API Link](https://github.com/Ogalo/Mboa-Rest-API)
+- [GitHub API Link](https://github.com/Ogalo/typhoid-blog-api)
 
 
 
@@ -60,10 +61,10 @@ The blog content in the above blog site has been well researched and documented 
 
 ### Backend Json web API
 
-* Used javascript and json server to build the backend web api
-* Built a `db.json` file to hold the data collected from the front-end and use the same data to be displayed to the from end app.
-* Linked the url from the json server to the front end application  for testing I used the  local ports to help test if the web runs successfully.
-* Hosted the backend web api using `heroku` .
+* Used ruby and rails to build the API
+* Built a `postgresql` database to hold the data collected from the front-end and use the same data to be displayed to the from end app.
+* Linked the url from the rails API to the front end application  for testing I used the  local ports to help test if the web runs successfully.
+* Hosted the backend web api using `heroku` .[here](https://haunted-skeleton-96575.herokuapp.com/blogs).
 * Change the local url to the heroku link.
 * Tested the application before deployment
 
