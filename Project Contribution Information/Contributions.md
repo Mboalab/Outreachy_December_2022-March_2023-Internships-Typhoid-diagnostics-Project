@@ -7,11 +7,11 @@ As part of the application process, all applicants must make at least one contri
  
 We are looking for motivated interns who can work in an inclusive and multidisciplinary environment, to contribute to setting up a local and robust dataset subdivided into two main subsets: the first consisting of images and the second of structured data. The dataset should be open, interoperable and aligned with the Metadata Schema 4.4 https://schema.datacite.org/.
 
-Applicants can contribute to this project through the [project repository](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022) on GitHub. 
+Applicants can contribute to this project through the [Project Repository](https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project) on GitHub. 
 
 ## Selecting a Task
 
-Lists of newcomer-friendly and advanced tasks can be found in the [Starter Tasks](https://github.com/Mboalab/Mboalab_Outreachy-May-Aug-2022/tree/main/Starter%20Tasks) folder in the project repository. 
+Lists of newcomer-friendly and advanced tasks can be found in the [Tasks](https://github.com/Mboalab/Outreachy_December_2022-March_2023-Internships-Typhoid-diagnostics-Project/tree/main/Tasks) folder in the project repository. 
 Applicants are encouraged to select a task based on personal interest, background and skills.
 
 _**Both individual or collective contributions to a particular task are welcomed.**_
@@ -22,7 +22,7 @@ _**Both individual or collective contributions to a particular task are welcomed
 2. Make sure to move to an **Outreachy_December_2022-March_2023-internships** branch before making changes in your working directory
 3. All contributions have to be listed in **Outreachy_December_2022-March_2023-internships** folder.
 
-    3.1 Create a folder with a naming convention **[Applicant Name]** (e.g **John Smith**) in **December_2022-March_2023-internships**
+    3.1 Create a folder with a naming convention **[Applicant Name]** (e.g **John Smith**) in **December-March-Contributions**
 
     3.2 List all your contributions in your **[Applicant Name]** folder in respective files *Task0.md*, *Task1.md*, and etc.
 
