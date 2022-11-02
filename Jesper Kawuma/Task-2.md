@@ -1,75 +1,11 @@
-### Contribution towards task-2
+# Contribution towards task-2
 
 ## Changes implemented (to implement);
 
 **Project structure**
 Changed the project structure for easy readeability and follow up.
 
-<!-- -node_modules
-    -all dependencies
--public
-    -index.html
-    -favIcon
--src
-    -components
-        -dist
-            -ccs
-                -all compiled css
-        -images
-            -all images to be used
-        -pages
-            -About
-                -About.jsx
-                -About.scss
-            -Blogs
-                -Blogs.jsx
-                -Blogs.scss
-            -Bot
-                -Bot.jsx
-                -Bot.scss
-            -Comments
-                -Comments.jsx
-                -Comments.scss
-            -ContactUs
-                -ContactUs.jsx
-                -ContactUs.scss
-            -Data-Loading
-                -CommentsCard.jsx
-                -CommentsCard.scss
-            -Footer
-                -Footer.jsx
-                -Footer.scss
-            -Home
-                -Home.jsx
-                -Home.scss
-            -Login
-                -Login.jsx
-                -Login.scss
-            -Navbar
-                -Navbar.jsx
-                -Navbar.scss
-            -Page404
-                -Page404.jsx
-                -Page404.scss
-            -Register
-                -Register.jsx
-                -Register.scss
-            -Services
-                -Services.jsx
-                -Services.scss
-            -Terms
-                -Terms.jsx
-                -Terms.scss
-    -App.css
-    -App.js
-    -index.js
-    -index.css
-    -reportWebvitals.js
--.gitignore
--package.json
--ReadMe.md
--yarn.lock -->
-
+```
 📦public
  ┣ 📜favicon-1.ico
  ┗ 📜index.html
@@ -135,6 +71,8 @@ Changed the project structure for easy readeability and follow up.
  📜package.json
  📜READme.md
  📜yarn.log
+ 
+```
 
 
  **Implementation so far**
