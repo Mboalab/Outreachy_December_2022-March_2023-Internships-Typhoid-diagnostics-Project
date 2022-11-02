@@ -13,12 +13,12 @@ Changed the project structure for easy readeability and follow up.
  ┣ 📂components
  ┃ ┣ 📂dist
  ┃ ┃ ┗ 📂css
- ┃ ┃ ┃ ┣ 📜Navbar.css
- ┃ ┃ ┃ ┗ 📜Navbar.css.map
+ ┃ ┃ ┃ ┣ 📜all compiled css
+ ┃ ┃ ┃ 
  ┃ ┣ 📂images
- ┃ ┃ ┣ 📜icon.png
- ┃ ┃ ┣ 📜logo.png
- ┃ ┃ ┗ 📜staff.webp
+ ┃ ┃ ┗ 📜all images
+ ┃ ┃
+ ┃ ┃ 
  ┃ ┗ 📂pages
  ┃ ┃ ┣ 📂About
  ┃ ┃ ┃ ┣ 📜About.jsx
@@ -71,7 +71,7 @@ Changed the project structure for easy readeability and follow up.
  📜package.json
  📜READme.md
  📜yarn.log
- 
+
 ```
 
 
