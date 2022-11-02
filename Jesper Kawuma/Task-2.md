@@ -6,6 +6,7 @@
 Changed the project structure for easy readeability and follow up.
 
 ```
+📦node_modules
 📦public
  ┣ 📜favicon-1.ico
  ┗ 📜index.html
@@ -13,12 +14,9 @@ Changed the project structure for easy readeability and follow up.
  ┣ 📂components
  ┃ ┣ 📂dist
  ┃ ┃ ┗ 📂css
- ┃ ┃ ┃ ┣ 📜all compiled css
- ┃ ┃ ┃ 
+ ┃ ┃ ┃ ┗📜all compiled css
  ┃ ┣ 📂images
  ┃ ┃ ┗ 📜all images
- ┃ ┃
- ┃ ┃ 
  ┃ ┗ 📂pages
  ┃ ┃ ┣ 📂About
  ┃ ┃ ┃ ┣ 📜About.jsx
